@@ -1,8 +1,4 @@
 * SAS Project
-Kevin Sun (kws8de)
-Tianye Song (Ts7fx)
-Fandi Lin (Fl3bf)
-Yizhe Ge (Yg2kj);
 
 libname analysis 'C:\LocalData';
 *STEP 1;
